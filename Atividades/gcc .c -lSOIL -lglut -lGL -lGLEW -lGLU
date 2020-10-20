@@ -1,0 +1,2 @@
+gcc .c -lglut -lGL -lGLEW -lGLU
+gcc .c -lSOIL -lglut -lGL -lGLEW -lGLU
